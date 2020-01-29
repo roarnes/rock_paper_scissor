@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RPS_Client</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connect">Connect</string>
+    <string name="title">ROCK PAPER SCISSOR GAME</string>
+    <string name="choose_your_move">Choose your move</string>
+    <string name="score">SCORE</string>
+</resources>
